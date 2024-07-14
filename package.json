@@ -1,3 +1,5 @@
 {
-  "author": "Codewaypoint",
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "version": "1.0.0",
 }
